@@ -6,7 +6,7 @@
 •	Probabilistic outputs provide uncertainty-aware scour depth estimation for design
 •	SHAP analysis reveals physically consistent controls on scour development
 
-[TabPFN for maximum scour depth prediction](https://github.com/hauldhut/TabMSD/blob/main/Figure2.jpg)
+![TabPFN for maximum scour depth prediction](https://github.com/hauldhut/TabMSD/blob/main/Figure2.jpg)
 
 ## Repo structure
 - **Data**: Contains all datasets 
