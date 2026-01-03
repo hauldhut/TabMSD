@@ -12,3 +12,5 @@
 - **Data**: Contains all datasets 
 - **Code**: Contains all source code to reproduce all the results
 
+## How to run
+- Follow instructions in the folders **Data** and **Code** to run
