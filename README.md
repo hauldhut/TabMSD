@@ -1,10 +1,10 @@
 # TabMSD: Probabilistic Prediction of Maximum Scour Depth Downstream of Sluices and Culverts Using a Tabular Foundation Model
 
-- A tabular foundation model is applied to predict scour depth downstream of hydraulic structures
-- A unified framework is developed for scour prediction at both sluices and culverts
-- Superior accuracy and reduced variability are achieved under limited data availability
-- Probabilistic outputs provide uncertainty-aware scour depth estimation for design
-- SHAP analysis reveals physically consistent controls on scour development
+•	TabPFN enables probabilistic scour depth prediction without hyperparameter tuning 
+•	Achieves superior accuracy with improved stability across cross-validation folds 
+•	Uncertainty quantified using PICP and MPIW with good calibration and sharpness 
+•	Exceedance probability supports risk-informed and reliability-based hydraulic design 
+•	SHAP analysis reveals physically consistent feature importance and interaction effects
 
 ![TabPFN for maximum scour depth prediction](https://github.com/hauldhut/TabMSD/blob/main/Figure2.jpg)
 
